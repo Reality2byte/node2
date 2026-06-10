@@ -531,7 +531,7 @@ The validator community also runs several independent root peers for non-validat
 | Infinite Field                | 52.68.71.160    | Japan          |
 | Infinite Field                | 13.114.116.44   | Japan          |
 | LiquidSpirit x Rekt Gang      | 79.127.159.173  | Japan          |
-| LiquidSpirit x Rekt Gang      | 79.127.159.174  | Japan          |
+| LiquidSpirit x Rekt Gang      | 199.254.199.194 | Japan          |
 | Imperator.co                  | 23.81.40.69     | Japan          |
 | Imperator.co                  | 212.95.58.62    | Germany        |
 | Enigma                        | 109.123.230.189 | Japan          |
