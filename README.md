@@ -547,7 +547,6 @@ The validator community also runs several independent root peers for non-validat
 | HypurrCorea: SKYGG x DeSpread | 15.235.231.247  | Singapore      |
 | Purrposeful x HyBridge x PiP  | 199.254.199.48  | Japan          |
 | Purrposeful x HyBridge x PiP  | 64.34.83.57     | Japan          |
-| Kinetiq x Hyperion            | 15.235.232.101  | Singapore      |
 
 ---
 
